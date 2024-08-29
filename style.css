@@ -1,4 +1,22 @@
 /* Change the color of the text from blue to red */
+
+@import url('https://fonts.googleapis.com/css2?family=Poller+One&display=swap');
+
 p {
-    color: blue;
+    color: red
+
+}
+*{
+    background-color: black;
+    
+    font-size: larger;
+}
+#hapy{
+    padding: 30px;
+    background-color: aqua;
+}
+
+body{
+    font-family: "Poppins",sans-serif;
+    font-weight: 700;
 }
